@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- 示例
+	<service name="Hello" class="my.HelloApi" /> 
+	-->
+	
+	<service name="StudentList" class="my.StudentListApi" /> 
+	
+	<service name="StudentAdd" class="my.StudentAddApi" />
+	
+	<service name="StudentRemove" class="my.StudentRemoveService" />
+	
+	<service name="StudentQuery" class="my.StudentQueryService" />
+	 
+</config>
